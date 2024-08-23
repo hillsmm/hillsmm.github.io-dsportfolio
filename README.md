@@ -11,10 +11,12 @@
 **Data Scientist Intern @ Virginia Tech Applied Research (_July 2024 - Present_)**
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Stock Clustering for Portfolio Diversification
+[Project Code](https://drive.google.com/file/d/1OuvaG6Ay8qhTrTppBU9EtZEyTMo0rAKY/view?usp=drive_link)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Analyze financial attributes of stocks to cluster and build a diversified
+investment portfolio, optimizing risk management and potential returns
+through strategic asset allocation.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
