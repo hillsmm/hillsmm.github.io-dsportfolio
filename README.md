@@ -12,7 +12,7 @@
 
 ## Projects
 ### Stock Clustering for Portfolio Diversification
-[Project Code] (StockClusteringProject.ipynb)
+[Clustering Project Code] (https://github.com/hillsmm/Project_DB/blob/main/StockClusteringProject.ipynb)
 
 Analyzed financial attributes of stocks to cluster and build a diversified
 investment portfolio, optimizing risk management and potential returns
