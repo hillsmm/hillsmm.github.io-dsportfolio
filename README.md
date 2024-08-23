@@ -12,9 +12,9 @@
 
 ## Projects
 ### Stock Clustering for Portfolio Diversification
-[Project Code] (https://drive.google.com/file/d/1BQYIlVX7CVD2TeFwm-Hn4lrhPAy11a9q/view?usp=drive_link)
+[Project Code] (StockClusteringProject.ipynb)
 
-Analyze financial attributes of stocks to cluster and build a diversified
+Analyzed financial attributes of stocks to cluster and build a diversified
 investment portfolio, optimizing risk management and potential returns
 through strategic asset allocation.
 
